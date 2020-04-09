@@ -149,9 +149,19 @@
     <Compile Include="Migrations\202004071813336_InitialCreate.designer.cs">
       <DependentUpon>202004071813336_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202004090637534_DataType_MaxLengthNames_Regex.cs" />
+    <Compile Include="Migrations\202004090637534_DataType_MaxLengthNames_Regex.designer.cs">
+      <DependentUpon>202004090637534_DataType_MaxLengthNames_Regex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004090650424_ColumnFirstName.cs" />
+    <Compile Include="Migrations\202004090650424_ColumnFirstName.designer.cs">
+      <DependentUpon>202004090650424_ColumnFirstName.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Enrollment.cs" />
+    <Compile Include="Models\Insructor.cs" />
+    <Compile Include="Models\OfficeAssignment.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\EnrollmentDateGroup.cs" />
@@ -218,6 +228,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202004071813336_InitialCreate.resx">
       <DependentUpon>202004071813336_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004090637534_DataType_MaxLengthNames_Regex.resx">
+      <DependentUpon>202004090637534_DataType_MaxLengthNames_Regex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004090650424_ColumnFirstName.resx">
+      <DependentUpon>202004090650424_ColumnFirstName.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

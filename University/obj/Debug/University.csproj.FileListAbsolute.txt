@@ -94,3 +94,5 @@ D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\bin\PagedList.xml
 D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\bin\PagedList.Mvc.xml
 D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University.Migrations.InitialCreate.resources
 D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University.csproj.GenerateResource.cache
+D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University.Migrations.DataType_MaxLengthNames_Regex.resources
+D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University.Migrations.ColumnFirstName.resources
