@@ -96,3 +96,4 @@ D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University
 D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University.csproj.GenerateResource.cache
 D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University.Migrations.DataType_MaxLengthNames_Regex.resources
 D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University.Migrations.ColumnFirstName.resources
+D:\IT STEP\ASP.NET\Microsoft Docs ASP\University\University\obj\Debug\University.Migrations.ComplexDataModel.resources
